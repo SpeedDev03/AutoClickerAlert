@@ -1,0 +1,8 @@
+name: AutoClickerAlert
+version: 1.0
+main: speeddev.info.cps.Main
+commands:
+  autoclickeralert:
+    aliases: [aca]
+    description: Main AutoClickerAlert command.
+    usage: /<command> setlimit <#>
